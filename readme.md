@@ -19,8 +19,8 @@
 </p>
 
 <p>
-    <a href="https://github.com/its0din-ai"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its0din-ai&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="its0din-ai :: Top Langs" /></a>
-    <a href="https://github.com/its0din-ai"><img src="https://github-readme-stats.vercel.app/api?username=its0din-ai&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats" alt="its0din-ai :: Profile Stats" /></a>
+    <a href="https://github.com/its0din-ai"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its0din-ai&hide_border=true&langs_count=10&custom_title=My%20Known%20Language&theme=dracula" alt="its0din-ai :: Top 10 Langs" /></a>
+    <a href="https://github.com/its0din-ai"><img src="https://github-readme-stats.vercel.app/api?username=its0din-ai&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula&icon_color=CA2E55&title_color=20fc8f&custom_title=My+Github+Data" alt="its0din-ai :: Profile Statistics" /></a>
 </p>
 
 <p>
