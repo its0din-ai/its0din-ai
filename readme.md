@@ -1,10 +1,10 @@
 ## Hello, You can Call Me Odin :green_heart:
 [![OS Badge](https://img.shields.io/badge/OS-debian-c14438?&logo=Debian&labelColor=000000&style=for-the-badge)](https://www.debian.org/)
 <br>
-[![GitHub followers](https://img.shields.io/github/followers/its0din-ai?color=0F9D58&label=Followers&labelColor=000000&logo=github&logoColor=white&style=for-the-badge)](https://github.com/its0din-ai)
+[![GitHub followers](https://img.shields.io/github/followers/its0din-ai?color=0F9D58&labelColor=000000&label=Followers&logo=github&logoColor=white&style=for-the-badge)](https://github.com/its0din-ai)
 [![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=its0din-ai.its0din-ai&label=Profile+Visit&labelColor=black&logo=GitHub&logoColor=white&color=E50914&style=for-the-badge)](https://github.com/its0din-ai)
 <br>
-[![Gmail Badge](https://img.shields.io/badge/-Mail%20Me-DB4437?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ryujiodin@gmail.com)](mailto:ryujiodin@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-DB4437?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ryujiodin@gmail.com)](mailto:ryujiodin@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itsodin.ai)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/6285157686612)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/realencrypt0r)
