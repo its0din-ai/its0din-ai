@@ -15,6 +15,7 @@
     </tr>
     <tr>
         <td><p align='left'>:bar_chart: Road to Data Scientist&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></td>
+        <td><p align='left'>:eyes: Crime Consultant</p></td>
     </tr>
 <table>
 
