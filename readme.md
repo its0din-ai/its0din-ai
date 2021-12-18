@@ -26,4 +26,4 @@
 </p>
 
 ----- 
-Credits: [its0din-ai](https://github.com/its0din-ai)
+Markdown Copyright: [its0din-ai](https://github.com/its0din-ai)
