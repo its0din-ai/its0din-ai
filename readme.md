@@ -9,7 +9,7 @@
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/6285157686612)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/realencrypt0r)
 
-<img src="assets/GitAbout.png" width="500">
+<img src="assets/gitAbout.png" width="500">
 
 <!-- <table cellspacing="0" cellpadding="0">
     <tr>
