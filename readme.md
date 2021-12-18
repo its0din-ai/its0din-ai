@@ -10,22 +10,7 @@
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/6285157686612)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/realencrypt0r)
 
-<img src="assets/gitAbout.png" width="500">
-
-<!-- <table cellspacing="0" cellpadding="0">
-    <tr>
-        <td><p align='left'>:sparkles: INTJ &#8212; Assertive</p></td>
-        <td><p align='left'>:hammer: Backend Addict</p></td>
-    </tr>
-    <tr>
-        <td><p align='left'>:mag: Analytical Person</p></td>
-        <td><p align='left'>:lock: CyberSec Enthusiast&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></td>
-    </tr>
-    <tr>
-        <td><p align='left'>:bar_chart: Road to Data Scientist&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></td>
-        <td><p align='left'>:eyes: Crime Consultant</p></td>
-    </tr>
-<table> -->
+<a href="https://github.com/its0din-ai"><img src="assets/gitAbout.png" width="500"></a>
 
 <h2>:chart_with_upwards_trend: My Github Statistics</h2>
 
