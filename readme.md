@@ -1,8 +1,13 @@
-## Hello, You can Call me Odin :green_heart:
-[![OS Badge](https://img.shields.io/badge/OS-debian-c14438?&logo=Debian&style=flat-square)](https://www.debian.org/)
-[![GitHub followers](https://img.shields.io/github/followers/its0din-ai?color=c14438&label=Followers&logo=github&logoColor=white&style=flat-square)](https://github.com/its0din-ai)<br>
-[![Visitor Count](https://komarev.com/ghpvc/?username=its0din-ai&style=flat-square&color=c14438&label=Total+Pengunjung)](https://github.com/its0din-ai)
-[![Gmail Badge](https://img.shields.io/badge/-Mail%20Me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryujiodin@gmail.com)](mailto:ryujiodin@gmail.com)
+## Hello, You can Call Me Odin :green_heart:
+[![OS Badge](https://img.shields.io/badge/OS-debian-c14438?&logo=Debian&labelColor=000000&style=for-the-badge)](https://www.debian.org/)
+<br>
+[![GitHub followers](https://img.shields.io/github/followers/its0din-ai?color=0F9D58&label=Followers&labelColor=000000&logo=github&logoColor=white&style=for-the-badge)](https://github.com/its0din-ai)
+[![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=its0din-ai.its0din-ai&label=Profile+Visit&labelColor=black&logo=GitHub&logoColor=white&color=E50914&style=for-the-badge)](https://github.com/its0din-ai)
+<br>
+[![Gmail Badge](https://img.shields.io/badge/-Mail%20Me-DB4437?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ryujiodin@gmail.com)](mailto:ryujiodin@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itsodin.ai)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/6285157686612)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/realencrypt0r)
 
 <table cellspacing="0" cellpadding="0">
     <tr>
@@ -26,5 +31,5 @@
     <a href="https://github.com/its0din-ai"><img align="center" src="https://github-readme-stats.vercel.app/api?username=its0din-ai&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dracula&icon_color=CA2E55&title_color=20fc8f&custom_title=My+Github+Data" alt="its0din-ai :: Profile Statistics" /></a>
 </p>
 
------ 
-Markdown Copyright: [its0din-ai](https://github.com/its0din-ai)
+## 
+<p align="center">Markdown Created with :coffee: By <a href="https://github.com/its0din-ai">its0din-ai</a></p>
