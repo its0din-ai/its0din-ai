@@ -3,14 +3,21 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=its0din-ai&style=flat-square&color=c14438&label=Total+Pengunjung)
 [![Gmail Badge](https://img.shields.io/badge/-Mail%20Me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryujiodin@gmail.com)](mailto:ryujiodin@gmail.com)
 
-<p align='left'>:sparkles: INTJ-Assertive</p>
-<p align='left'>:mag: Analytical 男性</p>
-<p align='left'>:bar_chart: Road to Data Scientist</p>
-<p align='left'>:bug: Backend Enthusiast</p>
-<p align='left'>:lock: CyberSec Enthusiast</p>
+<table cellspacing="0" cellpadding="0">
+    <tr>
+        <td><p align='left'>:sparkles: INTJ-Assertive</p></td>
+        <td><p align='left'>:bug: Backend Enthusiast</p></td>
+    </tr>
+    <tr>
+        <td><p align='left'>:mag: Analytical 男性</p></td>
+        <td><p align='left'>:lock: CyberSec Enthusiast</p></td>
+    </tr>
+    <tr>
+        <td><p align='left'>:bar_chart: Road to Data Scientist</p></td>
+    </tr>
+<table>
 
-
-<h2>My Github Stats</h2>
+<h2>:chart_with_upwards_trend: My Github Statistics</h2>
 
 <p>
     <a href="https://github.com/its0din-ai"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its0din-ai&hide_border=true&langs_count=5&custom_title=My%20Known%20Language&theme=dracula" alt="its0din-ai :: Top 5 Langs" /></a>
