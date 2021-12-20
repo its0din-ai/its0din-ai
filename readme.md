@@ -15,8 +15,8 @@
 <h2>:chart_with_upwards_trend: My Github Statistics</h2>
 
 <p>
-    <a href="https://github.com/its0din-ai"><img align="center" src="https://github-readme-stats-five-kappa.vercel.app/api/top-langs/?username=its0din-ai&hide_border=true&langs_count=5&custom_title=My%20Top%20Known%20Language&theme=dracula&exclude_repo=machine" alt="its0din-ai ::: Top 5 Langs" /></a>
-    <a href="https://github.com/its0din-ai"><img align="center" src="https://github-readme-stats-five-kappa.vercel.app/api?username=its0din-ai&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dracula&icon_color=CA2E55&title_color=20fc8f&custom_title=My+Github+Data" alt="its0din-ai ::: Profile Statistics" /></a>
+    <a href="https://github.com/its0din-ai"><img align="center" src="https://github-readme-stats-63ertkq0k-its0din-ai.vercel.app/api/top-langs/?username=its0din-ai&hide_border=true&langs_count=5&custom_title=My%20Top%20Known%20Language&theme=dracula&exclude_repo=machine" alt="its0din-ai ::: Top 5 Langs" /></a>
+    <a href="https://github.com/its0din-ai"><img align="center" src="https://github-readme-stats-63ertkq0k-its0din-ai.vercel.app/api?username=its0din-ai&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dracula&icon_color=CA2E55&title_color=20fc8f&custom_title=My+Github+Data" alt="its0din-ai ::: Profile Statistics" /></a>
 </p>
 
 ## 
