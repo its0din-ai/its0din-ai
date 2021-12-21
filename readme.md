@@ -14,10 +14,13 @@
 
 <h2>:chart_with_upwards_trend: My Github Statistics</h2>
 
-<p>
-    <a href="https://github.com/its0din-ai"><img align="center" src="https://github-readme-stats-63ertkq0k-its0din-ai.vercel.app/api/top-langs/?username=its0din-ai&hide_border=true&langs_count=5&custom_title=My%20Top%20Known%20Language&theme=dracula&exclude_repo=machine" alt="its0din-ai ::: Top 5 Langs" /></a>
-    <a href="https://github.com/its0din-ai"><img align="center" src="https://github-readme-stats-63ertkq0k-its0din-ai.vercel.app/api?username=its0din-ai&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dracula&icon_color=CA2E55&title_color=20fc8f&custom_title=My+Github+Data" alt="its0din-ai ::: Profile Statistics" /></a>
+<p align="center">
+    <a href="https://github.com/its0din-ai"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=its0din-ai&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=CA2E55&stroke=20FC8F&ring=20FC8F&dates=20FC8F&background=282A36" alt="its0din-ai ::: Top 5 Langs" /></a>
+    <a href="https://github.com/its0din-ai"><img align="center" src="https://github-readme-stats-63ertkq0k-its0din-ai.vercel.app/api?username=its0din-ai&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dracula&icon_color=CA2E55&title_color=20fc8f&custom_title=My+Github+Data" alt="its0din-ai ::: Profile Statistics" /></a><br><br>
+    <a href="https://github.com/its0din-ai"><img align="center" src="https://github-readme-stats-63ertkq0k-its0din-ai.vercel.app/api/top-langs/?username=its0din-ai&hide_border=true&langs_count=10&custom_title=My%20Top%20Known%20Language&theme=dracula&exclude_repo=machine&layout=compact&card_width=500" alt="its0din-ai ::: Top 5 Langs" /></a><br><br>
+    <a href="https://github.com/its0din-ai"><img align="center" src="https://github-profile-trophy.vercel.app/?username=its0din-ai&column=7&margin-w=15&margin-h=15&theme=dracula&no-frame=true" alt="its0din-ai ::: Top 5 Langs" /></a>
 </p>
+
 
 ## 
 <p align="center">Markdown Created with :coffee: By <a href="https://github.com/its0din-ai">its0din-ai</a></p>
