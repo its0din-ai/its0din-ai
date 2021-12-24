@@ -1,4 +1,9 @@
-## Hello, You can Call Me Odin :green_heart:
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=consolas&color=%2324AEDA&size=25&center=true&vCenter=true&height=40&lines=Hello%2C+You+can+Call+Me+Odin"/>
+</div>
+
+##
+
 [![OS Badge](https://img.shields.io/badge/OS-debian-c14438?&logo=Debian&labelColor=000000&style=for-the-badge)](https://www.debian.org/)
 [![OS1 Badge](https://img.shields.io/badge/OS-windows-00a2ed?&logo=Windows&labelColor=000000&style=for-the-badge)](https://www.microsoft.com/en-us/windows)
 <br>
@@ -10,15 +15,27 @@
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/6285157686612)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/realencrypt0r)
 
+
+<br/>
+<h2 align="center">:alien: Personality</h2>
 <a href="https://github.com/its0din-ai"><img src="assets/gitAbout.png" width="500"></a>
 
-<h2>:chart_with_upwards_trend: My Github Statistics</h2>
+
+<br/>
+<h2 align="center">:chart_with_upwards_trend: My Github Statistics</h2>
 
 <p align="center">
-    <a href="https://github.com/its0din-ai"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=its0din-ai&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=CA2E55&stroke=20FC8F&ring=20FC8F&dates=20FC8F&background=282A36" alt="its0din-ai ::: Top 5 Langs" /></a>
-    <a href="https://github.com/its0din-ai"><img align="center" src="https://github-readme-stats-63ertkq0k-its0din-ai.vercel.app/api?username=its0din-ai&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dracula&icon_color=CA2E55&title_color=20fc8f&custom_title=My+Github+Data" alt="its0din-ai ::: Profile Statistics" /></a><br><br>
-    <a href="https://github.com/its0din-ai"><img align="center" src="https://github-readme-stats-63ertkq0k-its0din-ai.vercel.app/api/top-langs/?username=its0din-ai&hide_border=true&langs_count=10&custom_title=My%20Top%20Known%20Language&theme=dracula&exclude_repo=machine&layout=compact&card_width=500" alt="its0din-ai ::: Top 5 Langs" /></a><br><br>
-    <a href="https://github.com/its0din-ai"><img align="center" src="https://github-profile-trophy.vercel.app/?username=its0din-ai&column=7&margin-w=15&margin-h=15&theme=dracula&no-frame=true" alt="its0din-ai ::: Top 5 Langs" /></a>
+    <a href="https://github.com/its0din-ai"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=its0din-ai&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=CA2E55&stroke=20FC8F&ring=20FC8F&dates=20FC8F&background=282A36" alt="its0din-ai ::: Streaks" /></a><br><br/>
+    <a href="https://github.com/its0din-ai"><img align="center" height="180px" src="https://github-readme-stats-63ertkq0k-its0din-ai.vercel.app/api?username=its0din-ai&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dracula&icon_color=CA2E55&title_color=20fc8f&custom_title=My+Data" alt="its0din-ai ::: Profile Statistics" /></a>
+    <a href="https://github.com/its0din-ai"><img align="center" height="180px" src="https://github-readme-stats-63ertkq0k-its0din-ai.vercel.app/api/top-langs/?username=its0din-ai&hide_border=true&langs_count=8&custom_title=8+Top+Languages&title_color=20fc8f&theme=dracula&exclude_repo=machine&layout=compact&card_width=360" alt="its0din-ai ::: Top 8 Langs" /></a><br>
+    <h2 align="center">:trophy: My Trophy :trophy:</h2><br/>
+    <div align="center">
+        <a href="https://github.com/its0din-ai"><img align="center" src="https://github-profile-trophy.vercel.app/?username=its0din-ai&column=7&margin-w=10&margin-h=15&theme=dracula&no-frame=true" alt="its0din-ai ::: Trophy" /></a>
+    </div>
+</p>
+
+<p>
+    
 </p>
 
 
