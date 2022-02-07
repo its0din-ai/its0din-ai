@@ -26,7 +26,7 @@
 
 <p align="center">
     <a href="https://github.com/its0din-ai"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=its0din-ai&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=CA2E55&stroke=20FC8F&ring=20FC8F&dates=20FC8F&background=282A36" alt="its0din-ai ::: Streaks" /></a><br><br/>
-    <a href="https://github.com/its0din-ai"><img align="center" height="180px" src="https://github-readme-stats-63ertkq0k-its0din-ai.vercel.app/api?username=its0din-ai&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dracula&icon_color=CA2E55&title_color=20fc8f&custom_title=My+Data" alt="its0din-ai ::: Profile Statistics" /></a>
+    <a href="https://github.com/its0din-ai"><img align="center" height="180px" src="https://github-readme-stats-63ertkq0k-its0din-ai.vercel.app/api?username=its0din-ai&show_icons=true&count_private=false&include_all_commits=true&hide_border=true&theme=dracula&icon_color=CA2E55&title_color=20fc8f&custom_title=My+Data" alt="its0din-ai ::: Profile Statistics" /></a>
     <a href="https://github.com/its0din-ai"><img align="center" height="180px" src="https://github-readme-stats-63ertkq0k-its0din-ai.vercel.app/api/top-langs/?username=its0din-ai&hide_border=true&langs_count=8&custom_title=8+Top+Languages&title_color=20fc8f&theme=dracula&exclude_repo=machine&layout=compact&card_width=280" alt="its0din-ai ::: Top 8 Langs" /></a><br>
     <h2 align="center">:trophy: My Trophy :trophy:</h2><br/>
     <div align="center">
