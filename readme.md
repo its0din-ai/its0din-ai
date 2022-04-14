@@ -13,7 +13,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-DB4437?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ryujiodin@gmail.com)](mailto:ryujiodin@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itsodin.ai)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/6285157686612)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/realencrypt0r)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/louis_hc7)
 
 
 <br/>
