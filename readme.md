@@ -18,7 +18,9 @@
 
 <br/>
 <h2 align="center">:alien: Personality</h2>
+<div align="center">
 <a href="https://github.com/its0din-ai"><img src="assets/gitAbout.png" width="500"></a>
+</div>
 
 
 <br/>
