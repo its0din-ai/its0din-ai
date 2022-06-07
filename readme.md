@@ -5,7 +5,8 @@
 ##
 
 [![OS Badge](https://img.shields.io/badge/OS-debian-c14438?&logo=Debian&labelColor=000000&style=for-the-badge)](https://www.debian.org/)
-[![OS1 Badge](https://img.shields.io/badge/OS-windows-00a2ed?&logo=Windows&labelColor=000000&style=for-the-badge)](https://www.microsoft.com/en-us/windows)
+[![OS1 Badge](https://img.shields.io/badge/OS-Red%20hat-EE0000?&logo=Redhat&labelColor=000000&style=for-the-badge)](https://www.redhat.com/)
+[![OS2 Badge](https://img.shields.io/badge/OS-windows-00a2ed?&logo=Windows&labelColor=000000&style=for-the-badge)](https://www.microsoft.com/en-us/windows)
 <br>
 [![GitHub followers](https://img.shields.io/github/followers/its0din-ai?color=0F9D58&labelColor=000000&label=Github+Followers&logo=github&logoColor=white&style=for-the-badge)](https://github.com/its0din-ai)
 [![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=its0din-ai.its0din-ai&label=Profile+Visit&labelColor=black&logo=GitHub&logoColor=white&color=E50914&style=for-the-badge)](https://github.com/its0din-ai)
@@ -13,7 +14,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-DB4437?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ryujiodin@gmail.com)](mailto:ryujiodin@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itsodin.ai)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/6285157686612?text=Hello%2C+I%27m+redirected+from+Github%0A%5BType+Your+Message+Here%5D)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/louis_hc7)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/encrypt0r_hc)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/encrypt0r/)
 <br/><br/>
 <a href="https://tryhackme.com/p/encryptor403"><img src="https://tryhackme-badges.s3.amazonaws.com/encryptor403.png" alt="TryHackMe"></a>
