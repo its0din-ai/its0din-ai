@@ -5,7 +5,7 @@
 ##
 <div>
 <p><strong>Portfolio ::</strong></p>
-<p>Clearnet -> https://encrypt0r.skom.id<br/>Darknet&nbsp; -> http://odinry3e34h6e7ytlcdhzeylc2esdweu3cgmwieb6nwgnagug5phr4ad.onion</p>
+<p>:globe_with_meridians: Clearnet -> https://encrypt0r.skom.id<br/>:onion: Darknet&nbsp; -> http://odinry3e34h6e7ytlcdhzeylc2esdweu3cgmwieb6nwgnagug5phr4ad.onion</p>
 </div>
 
 
