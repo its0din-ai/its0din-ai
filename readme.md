@@ -3,6 +3,14 @@
 </div>
 
 ##
+<div>
+<p><strong>Portfolio ::</strong></p>
+<p>Clearnet -> https://encrypt0r.skom.id</p>
+<p>Darknet&nbsp; -> http://odinry3e34h6e7ytlcdhzeylc2esdweu3cgmwieb6nwgnagug5phr4ad.onion/</p>
+</div>
+
+
+##
 
 [![OS Badge](https://img.shields.io/badge/OS-debian-c14438?&logo=Debian&labelColor=000000&style=for-the-badge)](https://www.debian.org/)
 [![OS1 Badge](https://img.shields.io/badge/OS-Red%20hat-EE0000?&logo=Redhat&labelColor=000000&style=for-the-badge)](https://www.redhat.com/)
