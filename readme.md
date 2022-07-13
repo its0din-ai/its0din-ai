@@ -1,12 +1,11 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=consolas&color=%2324AEDA&size=25&center=true&vCenter=true&height=40&lines=Hello%2C+You+can+Call+Me+Odin"/>
+    <a href="https://github.com/its0din-ai"><img src="https://readme-typing-svg.herokuapp.com?font=consolas&color=%2324AEDA&size=25&center=true&vCenter=true&height=40&lines=Hello%2C+You+can+Call+Me+Odin"/></a>
 </div>
 
 ##
 <div>
 <p><strong>Portfolio ::</strong></p>
-<p>Clearnet -> https://encrypt0r.skom.id</p>
-<p>Darknet&nbsp; -> http://odinry3e34h6e7ytlcdhzeylc2esdweu3cgmwieb6nwgnagug5phr4ad.onion/</p>
+<p>Clearnet -> https://encrypt0r.skom.id<br/>Darknet&nbsp; -> http://odinry3e34h6e7ytlcdhzeylc2esdweu3cgmwieb6nwgnagug5phr4ad.onion</p>
 </div>
 
 
