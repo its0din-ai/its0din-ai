@@ -26,9 +26,8 @@
 <br/><br/><a href="https://tryhackme.com/p/encryptor403"><img src="https://tryhackme-badges.s3.amazonaws.com/encryptor403.png?7" alt="TryHackMe"></a>
 ![GitHub Snake dark](https://raw.githubusercontent.com/its0din-ai/its0din-ai/output/contrib-snek-yami.svg#gh-dark-mode-only)
 
+[![@encrypt0r's Holopin board](https://holopin.io/api/user/board?user=encrypt0r)](https://holopin.io/@encrypt0r)
 
-
-<br/>
 <h2 align="center">:alien: Personality</h2>
 <div align="center">
 <a href="https://github.com/its0din-ai"><img src="assets/gitAbout.png" width="500"></a>
