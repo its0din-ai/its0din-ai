@@ -18,7 +18,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/encrypt0r_hc)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/encrypt0r/)
 <br/><br/>
-<img src="https://raw.githubusercontent.com/its0din-ai/its0din-ai/master/assets/htb-badge.png" alt="Hackthebox" width="300px">
+<a href="https://app.hackthebox.com/users/245627"><img src="https://raw.githubusercontent.com/its0din-ai/its0din-ai/master/assets/htb-badge.png" alt="Hackthebox" width="300px"/></a>
 <a href="https://tryhackme.com/p/encryptor403"><img src="https://tryhackme-badges.s3.amazonaws.com/encryptor403.png?7" alt="TryHackMe" width="300px"></a>
 [![GitHub Snake dark](https://raw.githubusercontent.com/its0din-ai/its0din-ai/output/contrib-snek-yami.svg#gh-dark-mode-only)](https://github.com/its0din-ai)
 [![Github Graph](https://activity-graph.herokuapp.com/graph?username=its0din-ai&bg_color=22272e&color=6e6e6e&line=19b856&point=267dcf&area=false&hide_border=true)](https://github.com/its0din-ai)
