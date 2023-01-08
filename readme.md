@@ -21,7 +21,7 @@
 <a href="https://app.hackthebox.com/users/245627"><img src="https://raw.githubusercontent.com/its0din-ai/its0din-ai/master/assets/htb-badge.png" alt="Hackthebox" width="300px"/></a>
 <a href="https://tryhackme.com/p/encryptor403"><img src="https://tryhackme-badges.s3.amazonaws.com/encryptor403.png" alt="TryHackMe" width="300px"></a>
 [![GitHub Snake dark](https://raw.githubusercontent.com/its0din-ai/its0din-ai/output/contrib-snek-yami.svg#gh-dark-mode-only)](https://github.com/its0din-ai)
-[![Github Graph](https://activity-graph.herokuapp.com/graph?username=its0din-ai&bg_color=22272e&color=6e6e6e&line=19b856&point=267dcf&area=false&hide_border=true)](https://github.com/its0din-ai)
+[![Github Graph](https://github-readme-activity-graph.cyclic.app/graph?username=its0din-ai&bg_color=22272e&color=6e6e6e&line=19b856&point=267dcf&area=false&hide_border=true)](https://github.com/its0din-ai)
 
 [![@encrypt0r's Holopin board](https://holopin.io/api/user/board?user=encrypt0r)](https://holopin.io/@encrypt0r)
 
@@ -36,7 +36,7 @@
 <p align="center">
     <a href="https://github.com/its0din-ai"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=its0din-ai&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=CA2E55&stroke=20FC8F&ring=20FC8F&dates=20FC8F&background=282A36" alt="its0din-ai ::: Streaks" /></a><br><br/>
     <a href="https://github.com/its0din-ai"><img align="center" height="180px" src="https://readme-status-bay.vercel.app/api?username=its0din-ai&show_icons=true&count_private=false&include_all_commits=true&hide_border=true&theme=dracula&icon_color=CA2E55&title_color=20fc8f&custom_title=My+Data" alt="its0din-ai ::: Profile Statistics" /></a>
-    <a href="https://github.com/its0din-ai"><img align="center" height="180px" src="https://readme-status-bay.vercel.app/api/top-langs/?username=its0din-ai&hide_border=true&langs_count=8&custom_title=8+Top+Languages&title_color=20fc8f&theme=dracula&exclude_repo=machine,hacktracec&hide=css,html,svelte&layout=compact&card_width=280" alt="its0din-ai ::: Top 8 Langs" /></a><br>
+    <a href="https://github.com/its0din-ai"><img align="center" height="180px" src="https://readme-status-bay.vercel.app/api/top-langs/?username=its0din-ai&hide_border=true&langs_count=8&custom_title=8+Top+Languages&title_color=20fc8f&theme=dracula&exclude_repo=machine,hacktrace&hide=css,html,svelte&layout=compact&card_width=280" alt="its0din-ai ::: Top 8 Langs" /></a><br>
     <h2 align="center">:trophy: My Trophy :trophy:</h2><br/>
     <div align="center">
         <a href="https://github.com/its0din-ai"><img align="center" src="https://github-profile-trophy.vercel.app/?username=its0din-ai&column=7&margin-w=10&margin-h=15&theme=dracula&no-frame=true" alt="its0din-ai ::: Trophy" /></a>
