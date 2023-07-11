@@ -16,6 +16,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itsodin.ai)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/encrypt0r_hc)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/encrypt0r/)
+[![Discord](https://dcbadge.vercel.app/api/shield/605185837600079891)](https://discordapp.com/users/605185837600079891)
 <br/><br/>
 <a href="https://app.hackthebox.com/users/245627"><img src="https://raw.githubusercontent.com/its0din-ai/its0din-ai/master/assets/htb-badge.png" alt="Hackthebox" width="300px"/></a>
 <a href="https://tryhackme.com/p/encryptor403"><img src="https://tryhackme-badges.s3.amazonaws.com/encryptor403.png" alt="TryHackMe" width="300px"></a>
