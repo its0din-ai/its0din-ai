@@ -20,9 +20,9 @@
 [![Discord](https://dcbadge.vercel.app/api/shield/605185837600079891?theme=discord)](https://discordapp.com/users/605185837600079891)
 <br/><br/>
 <a href="https://tryhackme.com/p/encryptor403"><img src="https://tryhackme-badges.s3.amazonaws.com/encryptor403.png" alt="TryHackMe" width="250px"></a>
-<a href="https://app.hackthebox.com/users/245627"><img src="https://www.hackthebox.com/badge/image/245627" alt="HTB" width="250px"></a>
+<a href="https://app.hackthebox.com/profile/245627"><img src="https://www.hackthebox.com/badge/image/245627" alt="HTB" width="250px"></a>
 <br>
-Hackthebox user profile -> https://app.hackthebox.com/users/245627 <br>
+Hackthebox user profile -> https://app.hackthebox.com/profile/245627 <br>
 Tryhackme  user profile -> https://tryhackme.com/p/encryptor403
 
 
