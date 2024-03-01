@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td>:globe_with_meridians: Clearnet</td>
-    <td>https://encrypt0r.vercel.app</td>
+    <td>https://encrypt0r.my.id/</td>
   </tr>
   <tr>
     <td>:onion: Darknet</td>
