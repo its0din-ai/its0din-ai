@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td>:key: Fingerprint</td>
-    <td><a href="https://keys.openpgp.org/search?q=44993F79C977CBADEFAFD3AE0389FC42E935DCDC">44993F79C977CBADEFAFD3AE0389FC42E935DCDC</a></td>
+    <td><a href="https://keys.openpgp.org/search?q=44993F79C977CBADEFAFD3AE0389FC42E935DCDC">44993F79C977CBADEFAFD3AE0389FC42E935DCDC</a><br><a href="https://keys.openpgp.org/search?q=E0F937309DBB44BCEFAE9B35C4625C5993B08351">E0F937309DBB44BCEFAE9B35C4625C5993B08351</a></td>
   </tr>
 </table>
 </div>
