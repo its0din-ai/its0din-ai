@@ -14,10 +14,15 @@
     <td>http://odinry3e34h6e7ytlcdhzeylc2esdweu3cgmwieb6nwgnagug5phr4ad.onion</td>
   </tr>
   <tr>
-    <td>:key: Fingerprint</td>
-    <td><a href="https://keys.openpgp.org/search?q=44993F79C977CBADEFAFD3AE0389FC42E935DCDC">44993F79C977CBADEFAFD3AE0389FC42E935DCDC</a><br><a href="https://keys.openpgp.org/search?q=E0F937309DBB44BCEFAE9B35C4625C5993B08351">E0F937309DBB44BCEFAE9B35C4625C5993B08351</a></td>
+    <td>:closed_lock_with_key: TOX id</td>
+    <td><a href="https://tox.chat/">689120D5D16BC7FE2D8EDDA4691F46A31C8AC191D46BECF31193DF7DD81E27382C9D713308A2</a></td>
+  </tr>
+  <tr>
+    <td>:key: PubKeys</td>
+    <td><a href="https://keys.openpgp.org/search?q=44993F79C977CBADEFAFD3AE0389FC42E935DCDC">44993F79C977CBADEFAFD3AE0389FC42E935DCDC</a><br><a href="https://keys.openpgp.org/search?q=E0F937309DBB44BCEFAE9B35C4625C5993B08351">E0F937309DBB44BCEFAE9B35C4625C5993B08351</a><br><a href="https://encrypt0r.my.id/contact/pgp">SSH Pubkey</a></td>
   </tr>
 </table>
+  <p><strong>here's your flag :: 0x4b5945544264306566393156496c3158563956515356305854393058514a31545039305466395666</strong></p>
 </div>
 <details>
 <summary>Profile Summary</summary>
@@ -41,8 +46,9 @@
 <a href="https://app.hackthebox.com/profile/245627" about="_blank"><img src="https://www.hackthebox.com/badge/image/245627" alt="HTB" width="250px"></a>
 </details>
 <details>
-<summary>Certifications</summary>
-<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=BgG3j4LXgbZJPxXRGhK6IMdvpIY+WjBemrOTV1u+0fw=" about="_blank"><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CASEJAVA_06EA5852692D.png" width="150px"/></a>
+<summary>Badges</summary>
+<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=BgG3j4LXgbZJPxXRGhK6IMdvpIY+WjBemrOTV1u+0fw=" about="_blank"><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CASEJAVA_06EA5852692D.png" width="100px"/></a>
+<a href="https://secops.group/certificate-validation/" about="_blank"><img src="https://secops.group/wp-content/uploads/2023/01/cert-stamp-2.png" width="100px"/></a>
 </details>
 <details>
     <summary>Contribution History</summary>
