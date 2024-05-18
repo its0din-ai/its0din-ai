@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>:onion: Darknet</td>
-    <td>http://odinry3e34h6e7ytlcdhzeylc2esdweu3cgmwieb6nwgnagug5phr4ad.onion</td>
+    <td>http://encryptcatmg7ibd3i7ecresjx7opgujcbuf2wtae4jb6sbqxui2twqd.onion</td>
   </tr>
   <tr>
     <td>:closed_lock_with_key: TOX id</td>
