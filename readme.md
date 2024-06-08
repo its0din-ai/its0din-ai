@@ -1,5 +1,5 @@
 ```math
-\ce{$&#x5C;unicode[monospace; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.66; background: url('https://media1.tenor.com/m/WiUhEvmDK84AAAAC/vestiazeta-ahhjangandong.gif');]{x0000}$}
+\ce{$&#x5C;unicode[monospace; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.66; background: url('https://c.tenor.com/WiUhEvmDK84AAAAC/tenor.gif');]{x0000}$}
 ```
 
 <div>
