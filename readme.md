@@ -1,5 +1,7 @@
 ```math
 \ce{$&#x5C;unicode[monospace; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -20% -50%; opacity: 1; background-repeat: repeat; background-size: 100% 100%; height: 600px; animation: 9s linear both infinite shrink-x; background-image: url('https://raw.githubusercontent.com/its0din-ai/its0din-ai/master/assets/zeta.gif');]{x0000}$}
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.3; background: url('https://raw.githubusercontent.com/its0din-ai/its0din-ai/master/assets/zeta.gif');]{x0000}$}
 ```
 
 <div>
