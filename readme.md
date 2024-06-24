@@ -49,6 +49,8 @@
 <summary>Badges</summary>
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=BgG3j4LXgbZJPxXRGhK6IMdvpIY+WjBemrOTV1u+0fw=" about="_blank"><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CASEJAVA_06EA5852692D.png" width="100px"/></a>
 <a href="https://secops.group/certificate-validation/" about="_blank"><img src="https://secops.group/wp-content/uploads/2023/01/cert-stamp-2.png" width="100px"/></a>
+<a href="https://secops.group/certificate-validation/" about="_blank"><img src="https://secops.group/wp-content/uploads/2023/02/Certified-Network-Security-Practitioner-whbg.png" width="100px"/></a>
+<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=ZspqRgNZGX6PVe71zoTPL5CxVc2VHtLrA63BtWFAQj8=" about="_blank"><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png" width="100px"/></a>
 </details>
 <details>
     <summary>Contribution History</summary>
