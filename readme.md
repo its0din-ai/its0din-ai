@@ -2,10 +2,6 @@
 <p><strong>Hi there! 🐿️</strong></p>
 <table>
   <tr>
-    <td>:link: Microsite</td>
-    <td>https://s.id/encrypt0r</td>
-  </tr>
-  <tr>
     <td>:globe_with_meridians: Clearnet</td>
     <td>https://encrypt0r.my.id/</td>
   </tr>
@@ -20,6 +16,13 @@
   <tr>
     <td>:key: PubKeys</td>
     <td><a href="https://keys.openpgp.org/search?q=44993F79C977CBADEFAFD3AE0389FC42E935DCDC">44993F79C977CBADEFAFD3AE0389FC42E935DCDC</a><br><a href="https://keys.openpgp.org/search?q=E0F937309DBB44BCEFAE9B35C4625C5993B08351">E0F937309DBB44BCEFAE9B35C4625C5993B08351</a><br><a href="https://encrypt0r.my.id/contact/pgp">SSH Pubkey</a></td>
+  </tr>
+  <tr>
+    <td>:mailbox: Secure Mail</td>
+    <td><a href="mailto:encrypt0r@cyberfear.com">encrypt0r@cyberfear.com</a>&nbsp;&nbsp;<a href="mailto:encrypt0r-x@protonmail.com">encrypt0r-x@protonmail.com</a></td>
+  <tr>
+    <td>:studio_microphone: DC</td>
+    <td><a href="https://discordapp.com/users/605185837600079891"><img src="https://dcbadge.limes.pink/api/shield/605185837600079891?theme=discord"/></a></td>
   </tr>
 </table>
   <p><strong>here's your flag :: 0x4b5945544264306566393156496c3158563956515356305854393058514a31545039305466395666</strong></p>
@@ -40,7 +43,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itsencrypt0r.x86)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/encrypt0r_hc)
 <br>
-[![Discord](https://dcbadge.limes.pink/api/shield/605185837600079891?theme=discord)](https://discordapp.com/users/605185837600079891)
+
 <br/><br/>
 <a href="https://tryhackme.com/p/encryptor403" about="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/encryptor403.png" alt="TryHackMe" width="250px"></a>
 <a href="https://app.hackthebox.com/profile/245627" about="_blank"><img src="https://www.hackthebox.com/badge/image/245627" alt="HTB" width="250px"></a>
