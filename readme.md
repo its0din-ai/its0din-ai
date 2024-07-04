@@ -15,13 +15,13 @@
   </tr>
   <tr>
     <td>:key: PubKeys</td>
-    <td><a href="https://keys.openpgp.org/search?q=44993F79C977CBADEFAFD3AE0389FC42E935DCDC">44993F79C977CBADEFAFD3AE0389FC42E935DCDC</a><br><a href="https://keys.openpgp.org/search?q=E0F937309DBB44BCEFAE9B35C4625C5993B08351">E0F937309DBB44BCEFAE9B35C4625C5993B08351</a><br><a href="https://encrypt0r.my.id/contact/pgp">SSH Pubkey</a></td>
+    <td><a href="https://keys.openpgp.org/search?q=44993F79C977CBADEFAFD3AE0389FC42E935DCDC">44993F79C977CBADEFAFD3AE0389FC42E935DCDC</a><br><a href="https://keys.openpgp.org/search?q=E0F937309DBB44BCEFAE9B35C4625C5993B08351">E0F937309DBB44BCEFAE9B35C4625C5993B08351</a><br><a href="https://encrypt0r.my.id/ssh">SSH Pubkey</a></td>
   </tr>
   <tr>
     <td>:mailbox: Secure Mail</td>
     <td><a href="mailto:encrypt0r@cyberfear.com">encrypt0r@cyberfear.com</a>&nbsp;&nbsp;<a href="mailto:encrypt0r-x@protonmail.com">encrypt0r-x@protonmail.com</a></td>
   <tr>
-    <td>:studio_microphone: DC</td>
+    <td>:studio_microphone: DC Status</td>
     <td><a href="https://discordapp.com/users/605185837600079891"><img src="https://dcbadge.limes.pink/api/shield/605185837600079891?theme=discord"/></a></td>
   </tr>
 </table>
