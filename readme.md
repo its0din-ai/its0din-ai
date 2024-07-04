@@ -1,5 +1,6 @@
 <div>
-<p><strong>Hi there! 🐿️</strong></p>
+<img src="https://media.tenor.com/E-ugLdjXA8AAAAAi/koseki-bijou-bijou.gif"/>
+<h2><strong>Hi there! 🐿️🔨🔮📜🗿</strong></h2>
 <table>
   <tr>
     <td>:globe_with_meridians: Clearnet</td>
