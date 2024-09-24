@@ -37,13 +37,9 @@
 <br>
 [![OS Badge](https://img.shields.io/badge/OS-linux-00a2ed?&logo=Linux&labelColor=000000&style=for-the-badge)](https://www.linux.org/)
 [![OS2 Badge](https://img.shields.io/badge/OS-windows-00a2ed?&logo=Windows&labelColor=000000&style=for-the-badge)](https://www.microsoft.com/en-us/windows)
-[![EDTR Badge](https://img.shields.io/badge/Editor-VSCode-0078d7?&logo=Visual-studio-code&labelColor=000000&style=for-the-badge)](https://code.visualstudio.com/)
 <br>
 [![Mail Badge](https://img.shields.io/badge/-Mail-8A90C7?style=for-the-badge&logo=Protonmail&logoColor=white&link=mailto:encrypt0r-x@protonmail.com)](mailto:encrypt0r-x@protonmail.com)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/encrypt0r/)
-<br>
-[![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itsencrypt0r.x86)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/encrypt0r_hc)
 <br>
 
 <br/><br/>
