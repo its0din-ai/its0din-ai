@@ -5,10 +5,10 @@
 <table>
   <tr>
     <td>:globe_with_meridians: Clearnet</td>
-    <td>https://encrypt0r.my.id/</td>
+    <td>https://www.encrypt0r.net/</td>
   </tr>
   <tr>
-    <td>:onion: Darknet</td>
+    <td>:onion: Onion</td>
     <td>http://encryptcatmg7ibd3i7ecresjx7opgujcbuf2wtae4jb6sbqxui2twqd.onion</td>
   </tr>
   <tr>
