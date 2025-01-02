@@ -53,6 +53,7 @@
 <a href="https://secops.group/certificate-validation/" about="_blank"><img src="https://secops.group/wp-content/uploads/2023/02/Certified-Network-Security-Practitioner-whbg.png" width="100px"/></a>
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=ZspqRgNZGX6PVe71zoTPL5CxVc2VHtLrA63BtWFAQj8=" about="_blank"><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png" width="100px"/></a>
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=RyFHvKTdrZCm1RKLbxZ0yLMU55Nmxf/o1q2scEDlli4=" about="_blank"><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/ECC-CTIA-07FE193842E3.png" width="100px"/></a>
+<a href="https://portswigger.net/web-security/e/c/9bbce88c3cc924b6" about="_blank"><img src="https://raw.githubusercontent.com/its0din-ai/its0din-ai/refs/heads/master/assets/bscp-badge.png" width="100px"/></a>
 </details>
 <details>
     <summary>Contribution History</summary>
