@@ -32,9 +32,8 @@
 <details>
 <summary>Profile Summary</summary>
 
-[![GitHub followers](https://img.shields.io/github/followers/its0din-ai?color=0F9D58&labelColor=000000&label=Github+Followers&logo=github&logoColor=white&style=for-the-badge)](https://github.com/its0din-ai)
-[![Visitor Count](https://komarev.com/ghpvc/?username=its0din-ai&style=for-the-badge&color=0F9D58)](https://github.com/its0din-ai)
-<br>
+[![W. Syafiuddin profile views](https://u8views.com/api/v1/github/profiles/81013584/views/day-week-month-total-count.svg)](https://u8views.com/github/its0din-ai)
+<br/>
 [![OS Badge](https://img.shields.io/badge/OS-linux-00a2ed?&logo=Linux&labelColor=000000&style=for-the-badge)](https://www.linux.org/)
 [![OS2 Badge](https://img.shields.io/badge/OS-windows-00a2ed?&logo=Windows&labelColor=000000&style=for-the-badge)](https://www.microsoft.com/en-us/windows)
 <br>
