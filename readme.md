@@ -81,7 +81,6 @@
         <a href="https://github.com/its0din-ai"><img align="center" src="https://github-profile-trophy.vercel.app/?username=its0din-ai&column=7&margin-w=10&margin-h=15&theme=dracula&no-frame=true" alt="its0din-ai ::: Trophy" /></a>
     </div>
 </p>
-<img src="https://webhook.site/44642ffe-4369-4d1d-9389-f3d150cc7ccb/github.png"/>
 </details>
 
 
