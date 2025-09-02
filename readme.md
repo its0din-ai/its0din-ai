@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td>:onion: Onion</td>
-    <td>http://encryptcatmg7ibd3i7ecresjx7opgujcbuf2wtae4jb6sbqxui2twqd.onion</td>
+    <td>http://3ncryptr7upypwajqqtyi5y2d3mu7235cqkxfaecymfjyklu3u7izuyd.onion/</td>
   </tr>
   <tr>
     <td>:closed_lock_with_key: TOX id</td>
