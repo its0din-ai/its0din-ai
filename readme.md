@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td>:mailbox: Secure Mail</td>
-    <td><a href="mailto:me@encrypt0r.net">encrypt0r@cyberfear.com</a>&nbsp;&nbsp;<a href="mailto:encrypt0r@cyberfear.com">encrypt0r@cyberfear.com</a>&nbsp;&nbsp;<a href="mailto:encrypt0r-x@protonmail.com">encrypt0r-x@protonmail.com</a></td>
+    <td><a href="mailto:me@encrypt0r.net">me@encrypt0r.net</a>&nbsp;&nbsp;<a href="mailto:encrypt0r@cyberfear.com">encrypt0r@cyberfear.com</a>&nbsp;&nbsp;<a href="mailto:encrypt0r-x@protonmail.com">encrypt0r-x@protonmail.com</a></td>
   <tr>
     <td>:studio_microphone: DC Status</td>
     <td><a href="https://discordapp.com/users/605185837600079891"><img src="https://dcbadge.limes.pink/api/shield/605185837600079891?theme=discord"/></a></td>
