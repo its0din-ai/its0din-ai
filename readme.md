@@ -28,7 +28,21 @@
   </tr>
 </table>
   <p><strong>here's your flag :: 0x4b5945544264306566393156496c3158563956515356305854393058514a31545039305466395666</strong></p>
+
+  <h3>Badges</h3>
+  <div>
+    <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=BgG3j4LXgbZJPxXRGhK6IMdvpIY+WjBemrOTV1u+0fw=" about="_blank"><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CASEJAVA_06EA5852692D.png" width="100px"/></a>
+<a href="https://secops.group/certificate-validation/" about="_blank"><img src="https://cdn-ilekfgl.nitrocdn.com/NcpyqATAVFgbtDGVJKElVndRSDcDPwLh/assets/images/optimized/rev-8ef6bac/pentestingexams.com/wp-content/uploads/2021/11/cert-stamp-cap.webp" width="100px"/></a>
+<a href="https://secops.group/certificate-validation/" about="_blank"><img src="https://cdn-ilekfgl.nitrocdn.com/NcpyqATAVFgbtDGVJKElVndRSDcDPwLh/assets/images/optimized/rev-8ef6bac/pentestingexams.com/wp-content/uploads/2023/01/cert-stamp-cnsp.webp" width="100px"/></a>
+<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=ZspqRgNZGX6PVe71zoTPL5CxVc2VHtLrA63BtWFAQj8=" about="_blank"><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png" width="100px"/></a>
+</br>
+<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=RyFHvKTdrZCm1RKLbxZ0yLMU55Nmxf/o1q2scEDlli4=" about="_blank"><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/ECC-CTIA-07FE193842E3.png" width="100px"/></a>
+<a href="https://portswigger.net/web-security/e/c/9bbce88c3cc924b6" about="_blank"><img src="https://raw.githubusercontent.com/its0din-ai/its0din-ai/refs/heads/master/assets/bscp-badge.png" width="100px"/></a>
+<a href="https://www.credential.net/358a6944-7ec1-42ce-8a4c-2b52cb2a5131#acc.DixOy5Fc" about="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/168235929" width="100px"/></a>
+<a href="https://www.credential.net/eeb18fff-0ec0-456e-9e72-6a2e20ae9afb" about="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/168235921" width="100px"/></a>
+  </div>
 </div>
+</br></br>
 <details>
 <summary>Profile Summary</summary>
 
@@ -45,15 +59,7 @@
 <a href="https://tryhackme.com/p/encryptor403" about="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/encryptor403.png" alt="TryHackMe" width="250px"></a>
 <a href="https://app.hackthebox.com/profile/245627" about="_blank"><img src="https://www.hackthebox.com/badge/image/245627" alt="HTB" width="250px"></a>
 </details>
-<details>
-<summary>Badges</summary>
-<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=BgG3j4LXgbZJPxXRGhK6IMdvpIY+WjBemrOTV1u+0fw=" about="_blank"><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CASEJAVA_06EA5852692D.png" width="100px"/></a>
-<a href="https://secops.group/certificate-validation/" about="_blank"><img src="https://secops.group/wp-content/uploads/2023/01/cert-stamp-2.png" width="100px"/></a>
-<a href="https://secops.group/certificate-validation/" about="_blank"><img src="https://secops.group/wp-content/uploads/2023/02/Certified-Network-Security-Practitioner-whbg.png" width="100px"/></a>
-<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=ZspqRgNZGX6PVe71zoTPL5CxVc2VHtLrA63BtWFAQj8=" about="_blank"><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png" width="100px"/></a>
-<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=RyFHvKTdrZCm1RKLbxZ0yLMU55Nmxf/o1q2scEDlli4=" about="_blank"><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/ECC-CTIA-07FE193842E3.png" width="100px"/></a>
-<a href="https://portswigger.net/web-security/e/c/9bbce88c3cc924b6" about="_blank"><img src="https://raw.githubusercontent.com/its0din-ai/its0din-ai/refs/heads/master/assets/bscp-badge.png" width="100px"/></a>
-</details>
+
 <details>
     <summary>Contribution History</summary>
 <h2 align="center">:chart_with_upwards_trend: Activities</h2>
