@@ -32,8 +32,8 @@
   <h3>Badges</h3>
   <div>
     <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=BgG3j4LXgbZJPxXRGhK6IMdvpIY+WjBemrOTV1u+0fw=" about="_blank"><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CASEJAVA_06EA5852692D.png" width="100px"/></a>
-<a href="https://secops.group/certificate-validation/" about="_blank"><img src="https://cdn-ilekfgl.nitrocdn.com/NcpyqATAVFgbtDGVJKElVndRSDcDPwLh/assets/images/optimized/rev-8ef6bac/pentestingexams.com/wp-content/uploads/2021/11/cert-stamp-cap.webp" width="100px"/></a>
-<a href="https://secops.group/certificate-validation/" about="_blank"><img src="https://cdn-ilekfgl.nitrocdn.com/NcpyqATAVFgbtDGVJKElVndRSDcDPwLh/assets/images/optimized/rev-8ef6bac/pentestingexams.com/wp-content/uploads/2023/01/cert-stamp-cnsp.webp" width="100px"/></a>
+<a href="https://secops.group/certificate-validation/" about="_blank"><img src="https://pentestingexams.com/wp-content/uploads/2021/11/cert-stamp-cap.webp" width="100px"/></a>
+<a href="https://secops.group/certificate-validation/" about="_blank"><img src="https://pentestingexams.com/wp-content/uploads/2023/01/cert-stamp-cnsp.webp" width="100px"/></a>
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=ZspqRgNZGX6PVe71zoTPL5CxVc2VHtLrA63BtWFAQj8=" about="_blank"><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEH_2E345519D3F7.png" width="100px"/></a>
 </br>
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=RyFHvKTdrZCm1RKLbxZ0yLMU55Nmxf/o1q2scEDlli4=" about="_blank"><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/ECC-CTIA-07FE193842E3.png" width="100px"/></a>
