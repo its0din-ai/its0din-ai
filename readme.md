@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>:key: PubKeys</td>
-    <td><a href="https://keys.openpgp.org/search?q=44993F79C977CBADEFAFD3AE0389FC42E935DCDC">44993F79C977CBADEFAFD3AE0389FC42E935DCDC</a><br><a href="https://keys.openpgp.org/search?q=E0F937309DBB44BCEFAE9B35C4625C5993B08351">E0F937309DBB44BCEFAE9B35C4625C5993B08351</a><br><a href="https://encrypt0r.my.id/ssh">SSH Pubkey</a></td>
+    <td><a href="https://keys.openpgp.org/search?q=44993F79C977CBADEFAFD3AE0389FC42E935DCDC">44993F79C977CBADEFAFD3AE0389FC42E935DCDC</a><br><a href="https://keys.openpgp.org/search?q=E0F937309DBB44BCEFAE9B35C4625C5993B08351">E0F937309DBB44BCEFAE9B35C4625C5993B08351</a><br><a href="https://launchpad.net/~encrypt0r-x/+sshkeys">SSH Pubkey</a></td>
   </tr>
   <tr>
     <td>:mailbox: Secure Mail</td>
@@ -63,8 +63,7 @@
 <details>
     <summary>Contribution History</summary>
 <h2 align="center">:chart_with_upwards_trend: Activities</h2>
-    
-[![Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=its0din-ai&bg_color=22272e&color=6e6e6e&line=19b856&point=267dcf&area=false&hide_border=true)](https://github.com/its0din-ai)
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/its0din-ai/its0din-ai/output/contrib-snek-yami.svg#gh-dark-mode-only" alt="Snake" loop=infinite>
 </div>
@@ -78,14 +77,6 @@
     <a href="https://github.com/its0din-ai"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=its0din-ai&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=CA2E55&stroke=20FC8F&ring=20FC8F&dates=20FC8F&background=282A36" alt="its0din-ai ::: Streaks" /></a><br><br/>
     <a href="https://github.com/its0din-ai"><img align="center" height="180px" src="https://readme-status-bay.vercel.app/api?username=its0din-ai&show_icons=true&count_private=false&include_all_commits=true&hide_border=true&theme=dracula&icon_color=CA2E55&title_color=20fc8f&custom_title=My+Data" alt="its0din-ai ::: Profile Statistics" loop=infinite /></a>
     <a href="https://github.com/its0din-ai"><img align="center" height="180px" src="https://readme-status-bay.vercel.app/api/top-langs/?username=its0din-ai&hide_border=true&langs_count=8&custom_title=8+Top+Languages&title_color=20fc8f&theme=dracula&exclude_repo=machine,hacktrace&hide=hack,css,html,svelte&layout=compact&card_width=280" alt="its0din-ai ::: Top 8 Langs" loop=infinite /></a><br>
-</details>
-<details>
-    <summary>Github Trophy</summary>
-    <h2 align="center">:trophy: Trophy :trophy:</h2><br/>
-    <div align="center">
-        <a href="https://github.com/its0din-ai"><img align="center" src="https://github-profile-trophy.vercel.app/?username=its0din-ai&column=7&margin-w=10&margin-h=15&theme=dracula&no-frame=true" alt="its0din-ai ::: Trophy" /></a>
-    </div>
-</p>
 </details>
 
 
