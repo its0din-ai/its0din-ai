@@ -45,22 +45,6 @@
   </div>
 </div>
 </br></br>
-<details>
-<summary>Profile Summary</summary>
-
-[![W. Syafiuddin profile views](https://u8views.com/api/v1/github/profiles/81013584/views/day-week-month-total-count.svg)](https://u8views.com/github/its0din-ai)
-<br/>
-[![OS Badge](https://img.shields.io/badge/OS-linux-00a2ed?&logo=Linux&labelColor=000000&style=for-the-badge)](https://www.linux.org/)
-[![OS2 Badge](https://img.shields.io/badge/OS-windows-00a2ed?&logo=Windows&labelColor=000000&style=for-the-badge)](https://www.microsoft.com/en-us/windows)
-<br>
-[![Mail Badge](https://img.shields.io/badge/-Mail-8A90C7?style=for-the-badge&logo=Protonmail&logoColor=white&link=mailto:encrypt0r-x@protonmail.com)](mailto:encrypt0r-x@protonmail.com)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/encrypt0r/)
-<br>
-
-<br/><br/>
-<a href="https://tryhackme.com/p/encryptor403" about="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/encryptor403.png" alt="TryHackMe" width="250px"></a>
-<a href="https://app.hackthebox.com/profile/245627" about="_blank"><img src="https://www.hackthebox.com/badge/image/245627" alt="HTB" width="250px"></a>
-</details>
 
 <details>
     <summary>Contribution History</summary>
